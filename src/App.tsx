@@ -1,7 +1,7 @@
 function App() {
   return(
     <div>
-      <h1> Menu </h1>
+      <h1> Elton </h1>
       <p> minuman </p>
       <p> makanan </p>
       <p> lokasi </p>
