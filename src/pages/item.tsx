@@ -243,7 +243,7 @@ function Item() {
 
                 <Tooltip/>
                 <Scatter data={data} fill="red"/>
-                <Scatter data={lineData} line shape="none" fill = "orange"/>
+                <Scatter data={lineData} fill = "orange"/>
             </ScatterChart> 
         </div>
     )
